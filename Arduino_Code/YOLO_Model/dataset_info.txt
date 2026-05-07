@@ -1,0 +1,22 @@
+YOLOv11 trained waste classification dataset.
+
+Dataset Classes:
+- Plastic
+- Metal
+- Paper
+- Glass
+- Organic Waste
+
+Model Used:
+YOLOv11
+
+Purpose:
+Automatic waste detection and segregation for SmartBin reverse vending eco-robot system.
+
+Training Environment:
+Python + Ultralytics YOLO Framework
+
+Applications:
+- Smart campuses
+- Smart cities
+- Sustainable waste management
