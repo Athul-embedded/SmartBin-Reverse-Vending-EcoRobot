@@ -1,0 +1,26 @@
+SmartBin Mobile Application
+
+Overview:
+The SmartBin mobile application is designed for monitoring and managing the reverse vending eco-robot system.
+
+Features:
+- Real-time waste monitoring
+- Reward point tracking
+- User notifications
+- Waste collection statistics
+- Firebase cloud connectivity
+- Smart campus monitoring
+
+Technologies:
+- Firebase
+- IoT Integration
+- Mobile Dashboard System
+
+Future Enhancements:
+- Android application deployment
+- QR code reward system
+- AI analytics dashboard
+- Live monitoring support
+
+Purpose:
+To provide a smart and user-friendly interface for monitoring waste management activities.
